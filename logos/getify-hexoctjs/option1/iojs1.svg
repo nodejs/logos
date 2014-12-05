@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   id="svg2"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"><path
+         d="m 0,0 5046.7,0 0,5045 L 0,5045 0,0 z"
+         id="path20" /></clipPath></defs><g
+     id="layer1"><path
+       d="M 932.04238,752.02542 503.51891,998.30069 75.976527,750.32611 76.957621,256.07626 505.48109,9.8009921 933.02347,257.77557 z"
+       transform="translate(-5.4392829,-5.4392829)"
+       id="path3768"
+       style="fill:#f3df49;fill-opacity:0;stroke:none" /><path
+       d="M 920.64126,746.32486 506.64873,984.53348 93.35775,745.10974 94.059299,267.47738 508.05183,29.268765 921.34281,268.6925 z"
+       transform="translate(-5.4392829,-5.4392829)"
+       id="path3770"
+       style="fill:#f3df49;fill-opacity:1;stroke:#f3df49;stroke-width:25;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g><g
+     transform="translate(0,327.33331)"
+     id="layer7"
+     style="display:inline"><g
+       transform="matrix(0.13333333,0,0,-0.13333333,166.12853,487.65959)"
+       id="g12"><g
+         id="g14"><g
+           clip-path="url(#clipPath18)"
+           id="g16"><path
+             d="m 1325.25,833.23 385.7,233.42 c 74.41,-131.931 142.1,-243.548 304.46,-243.548 155.63,0 253.75,60.878 253.75,297.678 l 0,1610.4 473.63,0 0,-1617.14 c 0,-490.56 -287.55,-713.849 -707.08,-713.849 -378.89,0 -598.82,196.231 -710.46,433.039"
+             id="path24"
+             style="fill:#2f2e2d;fill-opacity:1;fill-rule:nonzero;stroke:none" /><path
+             d="m 2999.95,883.98 385.65,223.29 c 101.52,-165.79 233.46,-287.579 466.89,-287.579 196.25,0 321.39,98.118 321.39,233.449 0,162.39 -128.55,219.91 -345.08,314.61 l -118.38,50.78 c -341.72,145.45 -568.4,328.14 -568.4,713.82 0,355.23 270.65,625.9 693.56,625.9 301.1,0 517.62,-104.89 673.23,-378.93 l -368.77,-236.81 c -81.2,145.46 -169.14,202.97 -304.46,202.97 -138.71,0 -226.68,-87.96 -226.68,-202.97 0,-142.1 87.97,-199.62 290.94,-287.59 l 118.4,-50.74 c 402.6,-172.55 629.28,-348.46 629.28,-744.27 0,-426.301 -334.93,-659.719 -784.88,-659.719 -439.81,0 -724,209.739 -862.69,483.789"
+             id="path26"
+             style="fill:#2f2e2d;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g></g></g></g><g
+     id="layer9"><path
+       d="m 598.55933,398.59039 -32.5583,78.60271 -78.60271,32.55831 -78.60271,-32.55831 -32.55831,-78.60271 32.55831,-78.60271 78.60271,-32.55831 78.60271,32.55831 z"
+       transform="translate(12.512695,-20.060753)"
+       id="path3772"
+       style="fill:#f3df49;fill-opacity:1;stroke:#2e2e2c;stroke-width:25;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g><g
+     id="layer10"
+     style="display:inline"><text
+   x="391.37216"
+   y="462.76865"
+   transform="scale(1.0927522,0.91512056)"
+   id="text4449"
+   xml:space="preserve"
+   style="font-size:39.24687958px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2e2e2c;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><tspan
+     x="391.37216"
+     y="462.76865"
+     dx="0"
+     id="tspan4451"
+     style="font-size:132.45822144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:-7.8493762px;fill:#2e2e2c;fill-opacity:1;font-family:Kefa;-inkscape-font-specification:Kefa Bold">IO</tspan></text>
+
+</g></svg>
