@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>Dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="181 0 361.272897 102.75 361.272897 308.25 181 411 0.727102811 308.25 0.727102811 102.75 "></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Dark" sketch:type="MSArtboardGroup">
+            <g id="Logo" sketch:type="MSLayerGroup" transform="translate(69.000000, 45.000000)">
+                <g id="Polygon">
+                    <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <use fill="none" xlink:href="#path-1"></use>
+                </g>
+                <path d="M191.212449,304.241632 L191.212449,336.683095 L198.296203,340.74122 L231.413527,322.142655 L236.985978,312.630478 L236.985978,92.7479746 L215.423014,80 L215.423014,303.606131 L197.284238,296.06634 L191.212449,304.241632 Z M258.548942,233.631953 L263.879113,238.100802 L301.674871,230.671168 L301.674871,263.95993 L280.111907,273.87148 L280.111907,254.390675 L258.548942,261.465801 L258.548942,300.583642 L263.879113,302.949075 L317.665384,271.150757 L323.237835,264.443134 L323.237835,216.192859 L317.665384,212.986896 L280.111907,215.429065 L280.111907,137.724729 L301.674871,147.636279 L301.674871,197.569422 L323.237835,198.971699 L323.237835,147.153076 L317.665384,140.445452 L263.879113,108.647134 L258.548942,111.012568 L258.548942,233.631953 Z" id="JS" opacity="0.65" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M41.0145114,140.600342 L67.2111855,127.616334 L67.2111855,284.012169 L41.0145114,271.028161 L41.0145114,140.600342 Z M89.1051343,118.972036 L89.1051343,292.656467 L95.5807166,301.207102 L160.92523,338.931612 L167.695157,335.543794 L167.695157,76.084709 L160.92523,72.6968904 L95.5807166,110.421401 L89.1051343,118.972036 Z M115.301808,123.158436 L141.498483,111.396568 L141.498483,300.231935 L115.301808,288.470067 L115.301808,123.158436 Z" id="IO" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
