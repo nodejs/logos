@@ -13,6 +13,8 @@ So you're ready to make a logo for [io.js]? Awesome! Here is what you should do:
   - 500px x 500px PNG render.
   - 60px x 60px PNG render _(to see how it looks small)._
   - Examples on both light and dark backgrounds.
+4. Put all these files under `/logos/your-awesome-logo-name/`
+5. Submit a pull-request.
 
 _By submitting a logo as a PR you acknowledge and agree that it is available under the public domain / [CC0]._
 
