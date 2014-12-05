@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>iojs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup">
+            <g id="Jupiter-layers" transform="translate(250.000000, 250.000000) scale(-1, 1) translate(-250.000000, -250.000000) " sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2" fill="#C46817" transform="translate(250.000000, 55.952381) scale(-1, 1) translate(-250.000000, -55.952381) " x="0" y="0" width="500" height="111.904762"></rect>
+                <rect id="Rectangle-7" fill="#8B4508" transform="translate(250.000000, 197.619048) scale(-1, 1) translate(-250.000000, -197.619048) " x="0" y="121.428571" width="500" height="152.380952"></rect>
+                <rect id="Rectangle-3" fill="#FFF8DD" transform="translate(250.000000, 111.904762) scale(-1, 1) translate(-250.000000, -111.904762) " x="0" y="102.380952" width="500" height="19.047619"></rect>
+                <rect id="Rectangle-4" fill="#DEA076" transform="translate(250.000000, 311.904762) scale(-1, 1) translate(-250.000000, -311.904762) " x="0" y="264.285714" width="500" height="95.2380952"></rect>
+                <rect id="Rectangle-5" fill="#FFF8DD" transform="translate(250.000000, 428.968254) scale(-1, 1) translate(-250.000000, -428.968254) " x="0" y="357.936508" width="500" height="142.063492"></rect>
+                <ellipse id="Great-Red-Spot" stroke="#FFF8DD" stroke-width="25" fill="#F5700A" transform="translate(139.682540, 111.904762) scale(-1, 1) translate(-139.682540, -111.904762) " cx="139.68254" cy="111.904762" rx="88.8888889" ry="47.6190476"></ellipse>
+            </g>
+            <path d="M131.468254,418.62996 L169.732143,395.473214 C177.114087,408.561508 183.829365,419.634921 199.936508,419.634921 C215.375992,419.634921 225.110119,413.595437 225.110119,390.103175 L225.110119,230.34127 L272.097222,230.34127 L272.097222,390.767857 C272.097222,439.434524 243.570437,461.58631 201.950397,461.58631 C164.362103,461.58631 142.543651,442.119048 131.468254,418.625992" id="j" fill="#2E2E2C" sketch:type="MSShapeGroup"></path>
+            <path d="M297.619048,413.595238 L335.877976,391.443452 C345.949405,407.890873 359.03869,419.973214 382.196429,419.973214 C401.665675,419.973214 414.080357,410.239286 414.080357,396.813492 C414.080357,380.703373 401.327381,374.997024 379.84623,365.602183 L368.102183,360.564484 C334.201389,346.134921 311.713294,328.010913 311.713294,289.749008 C311.713294,254.507937 338.563492,227.655754 380.518849,227.655754 C410.389881,227.655754 431.87004,238.061508 447.30754,265.248016 L410.723214,288.741071 C402.667659,274.310516 393.943452,268.605159 380.518849,268.605159 C366.757937,268.605159 358.030754,277.331349 358.030754,288.741071 C358.030754,302.838294 366.757937,308.544643 386.893849,317.271825 L398.639881,322.305556 C438.580357,339.423611 461.068452,356.875 461.068452,396.141865 C461.068452,438.433532 427.84127,461.590278 383.203373,461.590278 C339.571429,461.590278 311.377976,440.782738 297.619048,413.595238" id="s" fill="#2E2E2C" sketch:type="MSShapeGroup"></path>
+            <circle id="Io" stroke="#2E2E2C" stroke-width="10" fill="#F3DF49" sketch:type="MSShapeGroup" cx="101.190476" cy="199.603175" r="30.5555556"></circle>
+        </g>
+    </g>
+</svg>
