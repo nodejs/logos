@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="/home/rory/Documents/SimpleIOJS-60px.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="IOJS.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0143204"
+     inkscape:cx="273.94533"
+     inkscape:cy="237.14286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="800px"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <rect
+       style="fill:#2b2b2b;fill-opacity:1"
+       id="rect3005"
+       width="456.017"
+       height="269.8876"
+       x="-43.677731"
+       y="684.99963"
+       transform="matrix(0.99672827,-0.08082547,0.08082547,0.99672827,0,0)" />
+    <rect
+       y="658.59436"
+       x="48.726479"
+       height="269.8876"
+       width="456.017"
+       id="rect3013"
+       style="fill:#1a1a1a;fill-opacity:1"
+       transform="matrix(0.99943888,0.03349518,-0.03349518,0.99943888,0,0)" />
+    <g
+       id="g3007"
+       style="fill:#ffcc00"
+       transform="matrix(0.81431608,0,0,0.81431608,-5.6272839,394.67204)">
+      <text
+         xml:space="preserve"
+         style="font-size:159.93054199px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;font-family:Sans"
+         x="380.47537"
+         y="607.33252"
+         id="text2989"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2991"
+           x="380.47537"
+           y="607.33252"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#ffcc00;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed">JS</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3001"
+         y="605.90839"
+         x="98.092239"
+         style="font-size:305.76190186px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#f9f9f9;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+           y="605.90839"
+           x="98.092239"
+           id="tspan3003"
+           sodipodi:role="line">IO</tspan></text>
+    </g>
+  </g>
+</svg>
