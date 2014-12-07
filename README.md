@@ -4,10 +4,9 @@ Community contributed logos for io.js.
 
 ## Submission guidelines
 
-> Want to submit a logo, but don't know how to use git?
-> We have a list of volunteers who will do the "git work" on your behalf, and will give you all the credit.
->      
-> Feel free to reach out to any of the volunteers on [Issue #7](https://github.com/iojs/logos/issues/7) via Twitter or email.
+> If you've designed a logo and you want to add it to this repo, but lack knowledge of git, simply [Create a New Issue](https://github.com/iojs/logos/issues/new) with links to your logos.
+> From there, someone who does have knowledge of git can add it for you.
+> 
 
 So you're ready to make a logo for [io.js]? Awesome! Here is what you should do:
 
