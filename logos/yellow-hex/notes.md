@@ -1,0 +1,2 @@
+### Thoughts
+It makes sense to play to the Node.js legacy via the hex, and also allude to the JS world with the yellow. I have saturated the yellow to make it more vibrant (arguably the reason why io was started, to have a more vibrant community). The type is modified Nitti Grotesque.
