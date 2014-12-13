@@ -1,7 +1,10 @@
-![Io.js logo](http://acirdesign.com/wp-content/uploads/2014/12/iojs-logo_60x60.png?ts=1231231 "IO.js logo").js Logo
+IO.js Logo
 ==========
 
-A simple, vibrant logo for the Evented IO for V8 JavaScript.  
+![IO.js Logo](http://acirdesign.com/wp-content/uploads/2014/12/iojs-logo_500x500.png?ts=2 "IO.js Logo")  
+
+A simple, vibrant logo for the Evented IO for V8 JavaScript.
+
 
 ### Study and Motivation
 The logo was inspired by the vibrant and common visual language defined by the other more famous
